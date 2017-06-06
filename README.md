@@ -1,5 +1,5 @@
-react_redux_tutorialspoint
-==========================
+react_redux_test
+================
 
 
 
