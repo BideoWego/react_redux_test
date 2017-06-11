@@ -5,8 +5,8 @@ import {
   Switch,
   NavLink
 } from 'react-router-dom';
-import Home from './Home.jsx';
-import About from './About.jsx';
+import Home from './pages/Home.jsx';
+import About from './pages/About.jsx';
 
 
 const Header = (props) => (
